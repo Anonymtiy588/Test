@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "TreeHole",
+  "usingComponents": {
+    "tarbar": "/component/tarbar"
+  }
+}
