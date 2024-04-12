@@ -1,0 +1,198 @@
+.vforarea {
+	width: 44%;
+	margin-left: 4%;
+	margin-bottom: 32px;
+	border-radius: 16px;
+	flex-direction: row;
+	display: inline-block;
+	justify-content: center;
+}
+.f1 {
+	width: 100%;
+	font-size: 24px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border-top: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+}
+
+.f2 {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border-top: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+}
+
+.f21 {
+	width: 3.5cm;
+	height: 4.87cm;
+	border-right: solid 1px black;
+	border-bottom: solid 1px black;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+.f22 {
+	width: 80%;
+	height: 4.9cm;
+}
+
+.f221 {
+	width: 100%;
+	height: 25%;
+	display: flex;
+	flex-direction: row;
+}
+
+.f2211 {
+	width: 35%;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+	border-right: solid 1px black;
+	border-bottom: solid 1px black;
+}
+
+.f2212 {
+	width: 65%;
+	display: flex;
+	text-align: center;
+	word-break: break-all;
+	flex-direction: column;
+	justify-content: center;
+	border-bottom: solid 1px black;
+}
+
+#f3 {
+	width: 100%;
+	height: 64px;
+	display: flex;
+	flex-direction: row;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+}
+
+#f31 {
+	width: 50%;
+	height: 100%;
+	display: flex;
+	font-size: 16px;
+	flex-direction: row;
+}
+
+.f32 {
+	width: 50%;
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+.f311 {
+	width: 36%;
+	height: 100%;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.f312 {
+	width: 64%;
+	height: 100%;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+}
+
+.f31211 {
+	width: 64%;
+	height: 100%;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	justify-content: center;
+	border-left: solid 1px black;
+}
+
+.f4 {
+	width: 100%;
+	height: 64px;
+	display: flex;
+	flex-direction: row;
+	border-top: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+}
+
+.f41 {
+	width: 50%;
+	height: 100%;
+	display: flex;
+	font-size: 16px;
+	flex-direction: row;
+	
+}
+
+.f5 {
+	width: 100%;
+	height: 56px;
+	display: flex;
+	flex-direction: row;
+	border-top: solid 1px black;
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+}
+
+.f51 {
+	height: 100%;
+	width: 17.9%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-right: solid 1px black;
+}
+
+.f52 {
+	height: 100%;
+	width: 82.1%;
+	display: flex;
+	font-size: 14px;
+	word-break: break-all;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.f6 {
+	width: 100%;
+	height:32px;
+	display: flex;
+	flex-direction: row;
+	border: solid 1px black;
+}
+
+.f61 {
+	width: 72%;
+	height: 32px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border-right: solid 1px black;
+}
+
+.f62 {
+	width: 28%;
+	height: 32px;
+	display: flex;
+	font-size: 32px;
+	flex-direction: column;
+	justify-content: center;
+}
